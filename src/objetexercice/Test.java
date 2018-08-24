@@ -3,7 +3,7 @@ package objetexercice;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// J'ajoute un nouveau comm
 
 	}
 
